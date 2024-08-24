@@ -1,6 +1,6 @@
 # 📜 Decodificador de Texto
 
-O Decodificador é um aplicativo web simples que permite criptografar e descriptografar mensagens de texto usando uma substituição de caracteres específica. A ferramenta foi desenvolvida para praticar conceitos de manipulação de DOM, eventos, validação de entradas e boas práticas de JavaScript.
+O decodificador, desenvolvido como parte do desafio do Oracle ONE Next Education T7, em parceria com Alura, permite criptografar e descriptografar mensagens de texto usando uma substituição de caracteres específica.
 
 ## 🚀 Funcionalidades
 
@@ -11,9 +11,9 @@ O Decodificador é um aplicativo web simples que permite criptografar e descript
 
 ## 🛠️ Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
+- HTML5: Estrutura da página.
+- CSS: Estilização da interface
+- JavaScript: Lógica de programação para a criptografia e descriptografia.
 
 ## 🤝 Contribuições
 
